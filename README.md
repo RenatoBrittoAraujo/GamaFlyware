@@ -2,6 +2,8 @@
 
 An Open-Source Simulation Platform for Autonomous Vision-Guided UAV Missions.
 
+https://github.com/user-attachments/assets/35d8d9f1-912d-4cb9-a0b7-0b1c03272758
+
 ## About the System
 
 The platform can support several features: 
@@ -17,9 +19,6 @@ The system is implemented in a [DockerHub image](https://hub.docker.com/r/renato
 
 You can also read [my Software Engineering B.A. Capstone Project about GamaFlyware](BA_Thesis_about_GamaFlyware.pdf).
 
-See the video below to see what the system can do (has audio):
-
-https://github.com/user-attachments/assets/35d8d9f1-912d-4cb9-a0b7-0b1c03272758
 
 ## Prerequisites
 
