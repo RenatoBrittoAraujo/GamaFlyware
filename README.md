@@ -4,14 +4,22 @@ An Open-Source Simulation Platform for Autonomous Vision-Guided UAV Missions.
 
 ## About the System
 
-The system is implemented in a [DockerHub image](https://hub.docker.com/r/renatobrittoaraujo/gamaflyware/tags) to be run on a Desktop, including all the tools, GUI and instalations.
+The platform can support several features: 
+- Navigating areas via Python code
+- Autonomous landing in pads
+- Simulatenous Localization and Mapping (SLAM)
+- Surveying indoor or outdoor environments
+- SLAM point cloud processing
+- Live plotting of flight data
+- Missions in several maps
+
+The system is implemented in a [DockerHub image](https://hub.docker.com/r/renatobrittoaraujo/gamaflyware/tags) to be run on a Desktop, including all the tools, GUI and instalations. Should be simple to start using.
 
 You can also read [my Software Engineering B.A. Capstone Project about GamaFlyware](BA_Thesis_about_GamaFlyware.pdf).
 
 See the video below to see what the system can do (has audio):
 
 https://github.com/user-attachments/assets/35d8d9f1-912d-4cb9-a0b7-0b1c03272758
-
 
 ## Prerequisites
 
