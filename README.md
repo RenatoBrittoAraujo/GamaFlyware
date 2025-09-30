@@ -4,9 +4,14 @@ An Open-Source Simulation Platform for Autonomous Vision-Guided UAV Missions.
 
 ## About the System
 
-The system is implemented in a DockerHub image to be run on a Desktop, including all the tools, GUI and instalations.
+The system is implemented in a [DockerHub image](https://hub.docker.com/r/renatobrittoaraujo/gamaflyware/tags) to be run on a Desktop, including all the tools, GUI and instalations.
 
-https://hub.docker.com/r/renatobrittoaraujo/gamaflyware/tags
+You can also read [my Software Engineering B.A. Capstone Project about GamaFlyware](BA_Thesis_about_GamaFlyware.pdf).
+
+See the video below to see what the system can do:
+
+https://github.com/user-attachments/assets/35d8d9f1-912d-4cb9-a0b7-0b1c03272758
+
 
 ## Prerequisites
 
